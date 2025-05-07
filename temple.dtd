@@ -1,0 +1,7 @@
+<!doctype db[
+<!element db (templeinfo*)>
+<!element templeinfo(id,name,year)>
+<!element id(1)>
+<!element name(palani murugan)>
+<!element year(1875)>
+]>
